@@ -1,6 +1,6 @@
 #Meteor-Polymer-Google-Castable-Video
 
-This adds the [google-castable-video (video viewer with cast support)](https://elements.polymer-project.org/elements/google-youtube)
+This adds the [google-castable-video (video viewer with cast support)](https://elements.polymer-project.org/elements/google-castable-video)
 Web Component to [Meteor](http://meteor.com)!
 
 ##How to Install
